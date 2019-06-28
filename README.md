@@ -73,6 +73,21 @@ Using the above password, login to Argo CD as the admin user, and modify the ini
 For further documentation and usage instructions, please visit Argo CD documentation:
 https://argoproj.github.io/docs/argo-cd/docs/
 ```
-![Error](images/2019/06/error.png)
+
+![Sample MCM Object yaml](images/2019/06/sample-mcm-object-yaml.png)
+
+![New Argo application](images/2019/06/new-argo-applications.png)
+
+![Application detail](images/2019/06/application-detail.png)
+
+![Manual Sync](images/2019/06/manual-sync.png)
+
+![What are we synching?](images/2019/06/what-are-we-synching.png)
+
+![Sync in progress](images/2019/06/sync-in-progress.png)
+
+![AutoSync](images/2019/06/autosync.png)
+
+
 
 [kubernetes-sigs](https://github.com/kubernetes-sigs/application)
