@@ -73,3 +73,4 @@ Using the above password, login to Argo CD as the admin user, and modify the ini
 For further documentation and usage instructions, please visit Argo CD documentation:
 https://argoproj.github.io/docs/argo-cd/docs/
 ```
+![Error](images/2019/06/error.png)
