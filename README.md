@@ -17,7 +17,9 @@ wget https://169.50.59.138:31411/download/argocd-linux-amd64 --no-check-certific
 ![ArgoCD Server Service](images/2019/06/argocd-server-service.png)
 ![Server Service details](images/2019/06/server-service-details.png)
 ![Click on https link](images/2019/06/click-on-https-link.png)
-`root@mcm32master:/export/MultiCloudManager/argo# wget https://169.50.59.138:31411/download/argocd-linux-amd64 --no-check-certificate
+
+```
+root@mcm32master:/export/MultiCloudManager/argo# wget https://169.50.59.138:31411/download/argocd-linux-amd64 --no-check-certificate
 --2019-06-28 12:37:58--  https://169.50.59.138:31411/download/argocd-linux-amd64
 Connecting to 169.50.59.138:31411... connected.
 WARNING: cannot verify 169.50.59.138's certificate, issued by ‘O=Argo CD’:
@@ -29,4 +31,5 @@ Saving to: ‘argocd-linux-amd64’
 
 argocd-linux-amd64                           100%[============================================================================================>]  49.38M  29.4MB/s    in 1.7s    
 
-2019-06-28 12:38:00 (29.4 MB/s) - ‘argocd-linux-amd64’ saved [51780643/51780643]`
+2019-06-28 12:38:00 (29.4 MB/s) - ‘argocd-linux-amd64’ saved [51780643/51780643]
+```
